@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta http-equiv="refresh" content="7; url='https://www.google.com'" />
       </Head>
 
       <main>
