@@ -6,7 +6,7 @@ import * as React from "react"
 export default function Home() {
   React.useEffect(() => {
     // window is accessible here.
-    window.location = "https://tremp.page.link/AqZgL4D8UL97wbrbA";
+    window.location.href = "https://tremp.page.link/AqZgL4D8UL97wbrbA";
     console.log("window.innerHeight", window.innerHeight);
   }, []);
   return (
