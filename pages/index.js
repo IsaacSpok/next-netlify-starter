@@ -3,6 +3,7 @@ import Header from '@components/Header'
 import Footer from '@components/Footer'
 
 export default function Home() {
+  window.location = "https://tremp.page.link/AqZgL4D8UL97wbrbA";
   return (
     <div className="container">
       <Head>
