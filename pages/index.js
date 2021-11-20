@@ -8,9 +8,6 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
-        <script>
-        window.location.href = "intent:https://google.com";
-        </script>
       </Head>
 
       <main>
